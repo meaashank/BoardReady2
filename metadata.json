@@ -1,0 +1,6 @@
+{
+  "name": "Board Ready",
+  "description": "A calm, multi-device study planner and syllabus tracker for CBSE Class 12 board exams with adaptive scheduling, playlist duration parsing, and focus timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
